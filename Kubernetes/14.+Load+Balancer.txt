@@ -73,7 +73,7 @@ cat <<EOF > /usr/share/nginx/html/test.html
 </head>
 <body>
 <h1 style="color:rgb(90,70,250);">Hello, Kubernetes...!</h1>
-<h2>Load Balancer is working successfully. Congratulations, you passed :-) </h2>
+<h2>Load Balancer is working successfully. </h2>
 </body>
 </html>
 EOF
